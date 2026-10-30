@@ -1,0 +1,10 @@
+seed,policy,cargo_delivered,storm_knockouts,invalid_outputs,fallback_uses
+11,baseline,138,16,0,0
+12,baseline,134,20,0,0
+13,baseline,140,14,0,0
+11,model,136,6,0,0
+12,model,132,10,0,0
+13,model,136,6,0,0
+11,harbour_master_stub,138,2,17,17
+12,harbour_master_stub,132,6,17,17
+13,harbour_master_stub,132,8,17,17
